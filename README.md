@@ -7,22 +7,26 @@ Welcome to the **Data Science, Machine Learning, and Research Guide** repository
 ## ✨ Features
 
 ### 🔍 **Core Concepts**
-- **Python for DS & ML**: Learn essential Python libraries like NumPy, Pandas, Matplotlib, and Seaborn.
+
+- **Python for DS & ML**: Learn essential Python libraries like NumPy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-Learn and IPython.
 - **SQL for Data Analysis**: Master SQL commands to manipulate and analyze datasets.
 
-
 ### 🧹 **Data Cleaning & Preprocessing**
+
 - Handle missing data, outliers, and inconsistencies.
 - Transform and scale features to prepare datasets for modeling.
 
 ### 📊 **Data Analysis & Visualization**
+
 - Discover insights with data visualization tools.
 - Analyze trends and patterns with real-world datasets.
 
 ### ⚙️ **Feature Engineering**
+
 - Select, create, and transform features to improve model performance.
 
 ### 📈 **Basic Statistics for DS**
+
 - Understand key statistical concepts such as:
   - Mean, Median, Mode
   - Standard Deviation
@@ -30,10 +34,12 @@ Welcome to the **Data Science, Machine Learning, and Research Guide** repository
   - Hypothesis Testing
 
 ### 🤖 **Model Building**
+
 - Implement algorithms like regression, classification, clustering, and more.
 - Tune hyperparameters for optimal results.
 
 ### 🚀 **Model Deployment**
+
 - Deploy ML models using Flask or other web frameworks.
 - Create interactive web applications for real-world use.
 
@@ -42,6 +48,7 @@ Welcome to the **Data Science, Machine Learning, and Research Guide** repository
 ## 🔬 **Research Integration**
 
 This repository also aims to foster **AI & ML-based research**, with a focus on:
+
 - **Exploratory Research**: Generate hypotheses and validate them using real-world datasets.
 - **Advanced Techniques**: Apply deep learning models, transfer learning, and time-series analysis.
 - **Practical Applications**: Develop innovative solutions in fields like robotics, healthcare, finance, and cybersecurity.
@@ -60,6 +67,7 @@ Here is the roadmap I follow for structured learning and research:
 ## 🎯 **Contribute**
 
 You are welcome to contribute your research ideas, code, or insights! Here’s how you can help:
+
 1. Fork this repository and create your feature branch.
 2. Submit pull requests with detailed descriptions.
 3. Collaborate on open issues or suggest new ones.
