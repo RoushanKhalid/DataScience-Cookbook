@@ -46,21 +46,6 @@ A **comprehensive** guide to **Data Science & Machine Learning**, covering every
 
 ---
 
-## 🚀 Getting Started  
-
-```bash
-# Clone the repository  
-git clone https://github.com/RoushanKhalid/DataScience-Cookbook.git  
-
-# Navigate into the directory  
-cd DataScience-Cookbook  
-
-# Install required dependencies  
-pip install -r requirements.txt  
-```
-
----
-
 ## 📢 Contributing
 
 If you have ideas for improvement or want to contribute, feel free to fork the repo and submit a pull request!
