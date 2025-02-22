@@ -45,7 +45,7 @@ A **comprehensive** guide to **Data Science & Machine Learning**, covering every
 
 ```bash
 # Clone the repository  
-git clone https://github.com/RoushanKhalid/DataScience-Cookbook.git  
+git clone https://github.com/yourusername/DataScience-Cookbook.git  
 
 # Navigate into the directory  
 cd DataScience-Cookbook  
